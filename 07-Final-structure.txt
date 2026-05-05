@@ -1,0 +1,8 @@
+enterprise-log-monitor/
+│── schema.sql
+│── data.sql
+│── views.sql
+│── procedures.sql
+│── triggers.sql
+│── indexes.sql
+│── README.md
